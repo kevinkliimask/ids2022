@@ -41,4 +41,3 @@ with genres column from metadata in addition.
 Our goal was to train a model that had an RMSE (Root mean squared error) of about 0.5 or under,
 but unfortunately we weren't able to accomplish that. We did however manage to train models with an RMSE
 of about 1, which is still pretty okay in our opinion.
-
